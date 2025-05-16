@@ -1,5 +1,6 @@
-# Hydration Planner (Water Intake Reminder and Planner)
-
+# Hydration Planner
+Water Intake Reminder and Planner
+![Demo](appss.gif)
 ## Descriere
 Hydration Planner este o aplicație mobilă care vă ajută să urmăriți cu ușurință consumul zilnic de apă și să primiți notificări regulate pentru a vă aminti să beți apă. Este concepută pentru a vă ajuta să adoptați obiceiuri sănătoase de hidratare.
 
