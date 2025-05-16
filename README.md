@@ -24,10 +24,7 @@ Hydration Planner este o aplicație mobilă care vă ajută să urmăriți cu u�
 - iOS 15.0 sau versiune mai nouă pe iPhone sau iPad
 
 ## Instalare
-1. Descărcați sau clonați acest proiect:
-   ```bash
-   git clone <repo-link>
-   ```
+1. Descărcați sau clonați acest proiect.
 2. Deschideți proiectul în Xcode.
 3. Selectați simulatorul sau un dispozitiv real.
 4. Compilați și rulați aplicația.
