@@ -34,5 +34,3 @@ Hydration Planner este o aplicație mobilă care vă ajută să urmăriți cu u�
 5. La prima pornire, acordați permisiunea pentru notificări.
 
 ---
-
-**Cu Hydration Planner, transformă hidratarea sănătoasă într-un obicei zilnic!** 
